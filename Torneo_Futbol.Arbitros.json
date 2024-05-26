@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439014"
+  },
+  "nombre": "Ana Torres",
+  "partidos_arbitrados": 25
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439123"
+  },
+  "nombre": "María Rodríguez",
+  "partidos_arbitrados": 30
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439124"
+  },
+  "nombre": "Pedro Sánchez",
+  "partidos_arbitrados": 28
+},
+{
+  "_id": "ObjectId('507f191e810c19729de860ea')",
+  "nombre": "Luisa Fernández",
+  "partidos_arbitrados": 22
+},
+{
+  "_id": "ObjectId('507f191e810c19729de860eb')",
+  "nombre": "Carlos Gómez",
+  "partidos_arbitrados": 19
+}]

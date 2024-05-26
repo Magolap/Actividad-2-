@@ -1,0 +1,50 @@
+[{
+  "_id": "ObjectId('507f1f77bcf86cd799439200')",
+  "equipos": [
+    "ObjectId('507f1f77bcf86cd799439100')",
+    "ObjectId('507f1f77bcf86cd799439101')"
+  ],
+  "fecha": "ISODate('2024-06-15T18:00:00Z')",
+  "resultado": "ObjectId('507f1f77bcf86cd799439300')",
+  "lugar": "Estadio Nacional"
+},
+{
+  "_id": "ObjectId('507f1f77bcf86cd799439201')",
+  "equipos": [
+    "ObjectId('507f1f77bcf86cd799439102')",
+    "ObjectId('507f1f77bcf86cd799439103')"
+  ],
+  "fecha": "ISODate('2024-06-16T20:00:00Z')",
+  "resultado": "ObjectId('507f1f77bcf86cd799439301')",
+  "lugar": "Estadio Olímpico"
+},
+{
+  "_id": "ObjectId('507f1f77bcf86cd799439202')",
+  "equipos": [
+    "ObjectId('507f1f77bcf86cd799439104')",
+    "ObjectId('507f1f77bcf86cd799439105')"
+  ],
+  "fecha": "ISODate('2024-06-17T17:00:00Z')",
+  "resultado": "ObjectId('507f1f77bcf86cd799439302')",
+  "lugar": "Estadio Municipal"
+},
+{
+  "_id": "ObjectId('507f1f77bcf86cd799439203')",
+  "equipos": [
+    "ObjectId('507f1f77bcf86cd799439106')",
+    "ObjectId('507f1f77bcf86cd799439107')"
+  ],
+  "fecha": "ISODate('2024-06-18T19:30:00Z')",
+  "resultado": "ObjectId('507f1f77bcf86cd799439303')",
+  "lugar": "Estadio Metropolitano"
+},
+{
+  "_id": "ObjectId('507f1f77bcf86cd799439204')",
+  "equipos": [
+    "ObjectId('507f1f77bcf86cd799439108')",
+    "ObjectId('507f1f77bcf86cd799439109')"
+  ],
+  "fecha": "ISODate('2024-06-19T21:00:00Z')",
+  "resultado": "ObjectId('507f1f77bcf86cd799439304')",
+  "lugar": "Estadio Libertadores"
+}]
